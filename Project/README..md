@@ -28,7 +28,7 @@ It uses Retrieval-Augmented Generation (RAG) to provide accurate, context-based 
 ## ⚙️ Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/documind-ai.git  
+git clone https://github.com/harshchauhan888/CSET419_GENERATIVE_AI/tree/main/Project
 
 2. Go to project folder:
 cd documind-ai  
